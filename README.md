@@ -8,38 +8,34 @@ Membuat <b>CRUD API.</b>
 
 - <p>Tampilan form pada PostMan.</p>
 
-![11_simpan](https://user-images.githubusercontent.com/92837751/195021702-3ca64f65-8b71-4359-9c24-4e6b52e0136b.jpg)
+![simpan](https://user-images.githubusercontent.com/92837751/195064903-c5c82639-305c-45c3-ac39-b63505c061b6.jpg)
 
 - <p>Data akan tersimpan ke dalam database.</p>
 
-![11_2_simpan dan ubah](https://user-images.githubusercontent.com/92837751/195018301-e3a69496-7ba7-45d1-8144-92782edb36f9.jpg)
+![hapus](https://user-images.githubusercontent.com/92837751/195064892-b7ef4c55-02c0-4c86-ae8f-f4613f75b28e.jpg)
 
 ## 2. Baca (Read)
 
 - <p>Mencari data sesuai dengan id, dan data berhasil didapat.</p>
 
-![11_baca](https://user-images.githubusercontent.com/92837751/195018310-94cfe00c-b10d-494c-b8d3-955a1bc06c3c.jpg)
+![baca](https://user-images.githubusercontent.com/92837751/195064881-8aa5c546-8898-4aa4-8655-aefcf22beca3.jpg)
 
 ## 3. Ubah (Update)
 
 - <p>Data di dalam database yang akan di ubah adalah data dengan id <i><b>"2"</b></i>.</p>
 
-![11_2_simpan dan ubah](https://user-images.githubusercontent.com/92837751/195018301-e3a69496-7ba7-45d1-8144-92782edb36f9.jpg)
-
-- <p>Data akan di ubah dengan nama Malacia begitu pula dengan data lainnya.<p/>
-
-![11_2_ubah](https://user-images.githubusercontent.com/92837751/195018305-ef088a99-8914-4430-82fb-3b5ab43a60ad.jpg)
-
-- <p>Data di database berhasil di ubah.</p>
-
-![11_3_ubah](https://user-images.githubusercontent.com/92837751/195018306-8b0be7a4-ece5-4151-8f0a-8c475372d92d.jpg)
+![ubah](https://user-images.githubusercontent.com/92837751/195064908-fa0e90dd-3d69-422f-a5d3-989dc99f30b6.jpg)
 
 ## 4. Hapus (Delete)
 
 - <p>Data yang akan di hapus adalah data Malacia dengan id <i><b>"2"</b></i>.</p>
 
-![11_hapus](https://user-images.githubusercontent.com/92837751/195018312-a3e5355f-af49-4a0c-8aa6-dd2ca3b8275e.jpg)
+![hapus](https://user-images.githubusercontent.com/92837751/195064892-b7ef4c55-02c0-4c86-ae8f-f4613f75b28e.jpg)
 
-- <p>Di dalam database data Malacia berhasi dihapus.</p>
+- <p>Tampilan di PostMan.</p>
 
-![11_2_hapus dan baca](https://user-images.githubusercontent.com/92837751/195018297-9e9c4ea8-1530-4804-8f35-b2b8042dfd23.jpg)
+![hapus2](https://user-images.githubusercontent.com/92837751/195064895-c4792d0a-bcc8-43ca-bee9-3d6cbb1add13.jpg)
+
+- <p>Di dalam database data dengan id <i><b>"2"</b></i> berhasil di hapus.</p>
+
+![hapus3 dan ubah2](https://user-images.githubusercontent.com/92837751/195064900-8d7c89d6-83c6-4cd6-93bc-8058143496ba.jpg)

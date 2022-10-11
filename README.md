@@ -22,7 +22,7 @@ Membuat <b>CRUD API.</b>
 
 ## 3. Ubah (Update)
 
-- <p>Data di dalam database yang akan di ubah adalah data dengan id, dan data berhasil di ubah.<i><b>"2"</b></i>.</p>
+- <p>Data di dalam database yang akan di ubah adalah data dengan id <i><b>"2"</b></i>, dan data berhasil di ubah.</p>
 
 ![ubah](https://user-images.githubusercontent.com/92837751/195064908-fa0e90dd-3d69-422f-a5d3-989dc99f30b6.jpg)
 
